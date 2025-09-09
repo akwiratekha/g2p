@@ -9,6 +9,7 @@
     { "in": "hsi", "out": "hʃ", "context_after": "VOWEL", "context_before": "^|CONSONANT"},
     { "in": "si", "out": "ʒ", "context_after": "VOWEL", "context_before": "VOWEL", "prevent_feeding": true },
     { "in": "tsy", "out": "d͡ʒ" },
+    { "in": "tsi", "out": "d͡ʒ", "context_after": "VOWEL"},
     { "in": "t", "out": "d", "context_after": "VOWEL" },
     { "in": "k", "out": "ɡ", "context_after": "VOWEL" },
     { "in": "kw", "out": "kʷ", "context_after": "$" },
